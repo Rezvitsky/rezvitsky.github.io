@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Rezvitsky 
+Rezvitsky
+/
+rezvitsky.github.io
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+rezvitsky.github.io/js/chunk-02375877.30342446.js /
+@Rezvitsky
+Rezvitsky Update chunk-02375877.30342446.js
+Latest commit 4cd78b6 11 minutes ago
+ History
+ 1 contributor
+1262 lines (1262 sloc)  38.8 KB
+  
 (window.webpackJsonp = window.webpackJsonp || []).push([
 	["chunk-02375877"], {
 		"0409": function(t, a, e) {
@@ -275,10 +307,10 @@
 						staticClass: "nav-item lionswap"
 					}, [s("a", {
 						attrs: {
-							href: "https://lionswap.org",
+							href: "#",
 							target: "_blank"
 						}
-					}, [t._v(" LionSwap ")])]), s("li", {
+					}, [t._v(" Girafswap ")])]), s("li", {
 						directives: [{
 							name: "anchor",
 							rawName: "v-anchor",
@@ -535,10 +567,10 @@
 						staticClass: "nav-item lionswap"
 					}, [a("a", {
 						attrs: {
-							href: "https://lionswap.org",
+							href: "#",
 							target: "_blank"
 						}
-					}, [this._v(" LionSwap ")])])
+					}, [this._v(" Girafswap ")])])
 				}], !1, null, "161ae63a", null).exports),
 				m = {
 					name: "index",
